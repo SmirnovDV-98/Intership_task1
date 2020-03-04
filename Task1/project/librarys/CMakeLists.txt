@@ -1,0 +1,1 @@
+add_library (librarys libr.cpp Header.h)
